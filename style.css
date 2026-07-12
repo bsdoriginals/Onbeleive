@@ -140,7 +140,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: rgba(0, 0, 0, 0.12);
+  background: rgba(0, 0, 2, 0.12);
   pointer-events: none;
 }
 .hero .hero-book,
